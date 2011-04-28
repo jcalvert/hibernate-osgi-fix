@@ -1,0 +1,1 @@
+This is just my simple dump of the hibernate osgi-gied source from the Spring OBR. I have patched HqlLexer to not throw ClassNotFound Exceptions
